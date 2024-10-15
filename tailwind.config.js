@@ -10,6 +10,7 @@ module.exports = {
     },
     colors: {
       "white": "#FFFFFF",
+      "black": "#333333",
       'blue': '#1fb6ff',
       'purple': '#7e5bef',
       'pink': '#ff49db',
@@ -22,6 +23,7 @@ module.exports = {
       "orange1": "#f74b3b",
       "orange2": "#d9534e",
       "grey-dark": "#212121",
+      "grey-light": "#f5f5f5",
     },
     fontFamily:{
       arvo: ["arvo"],
