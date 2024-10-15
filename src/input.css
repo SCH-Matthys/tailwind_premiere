@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "arvo";
+    src: url(../assets/fonts/Arvo/Arvo-Regular.ttf);
+}
+
+@font-face {
+    font-family: "roboto";
+    src: url(../assets/fonts/roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "roboto-light";
+    src: url(../assets/fonts/roboto/Roboto-Light.ttf);
+}
